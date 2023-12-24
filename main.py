@@ -1,4 +1,4 @@
-# Shazamio Block
+# -Shazamio Block
 import asyncio  # Модуль для корректной работы библиотеки Shazamio
 from shazamio import Shazam  # SHAZAM API
 

@@ -1,7 +1,7 @@
+# Дизайн приложения
+
+
 from PyQt5 import QtCore, QtGui, QtWidgets
-
-
-# pyuic5 name.ui -o name.py
 
 
 class UI_PyJam(object):
